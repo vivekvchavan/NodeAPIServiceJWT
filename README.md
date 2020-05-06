@@ -4,5 +4,5 @@ Node JS Application with MongoDB backend JWT token for authentication and Expres
 
 .env
 
-DB_CONNECT=<mongo-connection-string>
-TOKEN_SECRET=<token-for-jwt>
+DB_CONNECT=mongo-connection-string
+TOKEN_SECRET=token-for-jwt
